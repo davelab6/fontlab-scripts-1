@@ -11,3 +11,11 @@ Installation
 3. Start FontLab Studio.
 4. Turn on the **Macro** toolbar by selecting the menu *View > Toolbars > Macro*.
 
+Users of Mac OS X 10.10 should open the FontLab application from Terminal in order to use these scripts.
+
+```sh
+open '/Applications/FontLab Studio.app';
+open '/Applications/FontLab Studio 5.app';
+open '/Applications/FontLab Studio 5 OSX.app';
+open '/Applications/FontLab.app';
+```
